@@ -18,8 +18,7 @@ GRD
 Files:
 46 (1980–2025)
 
-Approximate Size:
-(உங்கள் Folder-ல் இருக்கும் Total Size எழுதுங்கள்)
+
 
 Parameter:
 Daily Maximum Surface Temperature (°C)
